@@ -1,15 +1,4 @@
-#### React Router Fix
+App live at https://judahkerr-cocktaildb.netlify.app/
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+Cocktail DB made with React. Connected to TheCocktailDB API at https://www.thecocktaildb.com/api.php
+First time using React Router DOM, reminds me of Node.js.
